@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+    font-size: 16px;
+}
+
+ .main-div{
+    margin: auto;
+    position: relative;
+    top:70px;
+    width:75%;
+    background-color: rgb(217, 233, 243);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    color:black;
+
+} 
+.my-accordiandiv{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 25px;
+    color: black;
+    cursor: pointer;
+}
+
+.answer{
+    background-color: aliceblue;
+}
